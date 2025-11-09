@@ -6,4 +6,4 @@ npm start
 npm test
 
 # Python
-python main.py01
+python main.py
